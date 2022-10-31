@@ -1,3 +1,6 @@
+
+![weather](https://user-images.githubusercontent.com/103464869/198923633-88bf7cad-4f38-4f92-b351-133bbb11db9e.png)
+
 # Weather_Prediction
 
 This repo contains the building, training, and testing of a Random Forest model to predict weather information based on historical data. 
